@@ -1,0 +1,3 @@
+ouble d = scan.nextDouble();
+        scan.nextLine(); //gets rid of the \n newline after the integer so that we get the string with the next call
+        String s = scan.nextLine();
